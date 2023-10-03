@@ -5,4 +5,5 @@
     # 3.5. how would you define these with the property function?
     # 3.5. how would you define these with decorators?
 # 4. define methods for each Cat object
-    # 4.5. define Cat methods as meow(), have_a_birthday(), and change_name(name)
+    # 4.5. define Cat methods as meow(), have_a_birthday()
+# [OPTIONAL] 5. define overriding str magic method
